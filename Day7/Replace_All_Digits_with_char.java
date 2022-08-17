@@ -23,5 +23,3 @@ public class Replace_All_Digits_with_char {
 
 //Input: s = "a1c1e1"
 //Output: "abcdef"
-
-//long contiguous segment of ones then zero
